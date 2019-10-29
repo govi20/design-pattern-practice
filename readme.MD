@@ -7,9 +7,10 @@ In the object-oriented design, we …
 - Draw objects
 - Identify object relationships
  
-KISS - Keep It Simple, Stupid
-DRY - Don’t Repeat Yourself
-YAGNI - You Ain’t Gonna Need It
+ 
+KISS - Keep It Simple, Stupid<br />
+DRY - Don’t Repeat Yourself<br />
+YAGNI - You Ain’t Gonna Need It<br />
 
 Reference: https://medium.com/omarelgabrys-blog/object-oriented-analysis-and-design-conceptual-model-part-2-ce730ac4eb31
 
