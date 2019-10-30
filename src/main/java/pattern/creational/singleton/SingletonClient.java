@@ -1,8 +1,5 @@
 package pattern.creational.singleton;
 
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
-
 /*
  * @Author: Govinda Sakhare
  * Email: govindasakhare20@gmil.com
